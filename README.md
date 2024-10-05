@@ -11,3 +11,6 @@ Tables of Content :
 8-Decision Tree
 9-Random Forest Regressor
 10-Comparison between Predicted values and True Values (Random Forest Regressor)
+
+
+main.py is a streamlit dployment made in vscode 
