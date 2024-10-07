@@ -13,4 +13,4 @@ Tables of Content :
 10-Comparison between Predicted values and True Values (Random Forest Regressor)
 
 
-main.py is a streamlit dployment made in vscode 
+pred.py is a streamlit dployment made in vscode 
